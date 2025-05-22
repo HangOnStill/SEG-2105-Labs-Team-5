@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Zhixing 
+=======
+Kate Boyd
+=======
+Mohamed	
+=======
+Zhixing McIntosh Chen
+>>>>>>> c4c4aa104dea9002b5154f7536addf7a94400aa0
