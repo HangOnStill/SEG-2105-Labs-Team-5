@@ -1,6 +1,4 @@
 Kate Boyd
-<<<<<<< HEAD
 Mohamed	
-=======
 Zhixing McIntosh Chen
->>>>>>> 41a72b8eb0a9593529fc104ebec14ad1eb0f147f
+
